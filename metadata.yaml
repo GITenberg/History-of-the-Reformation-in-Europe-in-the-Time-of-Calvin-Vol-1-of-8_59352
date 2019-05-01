@@ -1,11 +1,16 @@
 _repo: History-of-the-Reformation-in-Europe-in-the-Time-of-Calvin-Vol-1-of-8_59352
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59352-h/images/cover.jpg
 creator:
   author:
     agent_name: d'Aubigne, Merle
     gutenberg_agent_id: '50412'
     url: http://www.gutenberg.org/2009/agents/50412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59352#History-of-the-Reformation-in-Europe-in-the-Time-of-Calvin-Vol-1-of-8
 gutenberg_issued: '2019-04-25'
 gutenberg_type: Text
 identifiers:
